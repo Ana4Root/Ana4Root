@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Ana Laura<br>A passionate frontend developer from Brazil</h2>
+<h2 align="left">Hi 👋, I'm Ana Laura<br>A passionate full stack developer from Brazil</h2>
 
 ###
 
